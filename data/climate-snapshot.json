@@ -1,0 +1,70 @@
+{
+  "issuedDate": "2026-08-13",
+  "issuedMonth": "2026-08",
+  "status": "El Niño Watch",
+  "headline": "Very strong El Niño probability exceeds 90% in late 2026",
+  "period": "Northern Hemisphere fall and winter 2026-27",
+  "peakVeryStrongProbabilityPct": 95,
+  "peakSeason": "OND 2026",
+  "seasonalOutlook": [
+    {
+      "season": "JAS",
+      "period": "July-September 2026",
+      "elNinoProbabilityPct": 100,
+      "veryStrongProbabilityPct": 20
+    },
+    {
+      "season": "ASO",
+      "period": "August-October 2026",
+      "elNinoProbabilityPct": 100,
+      "veryStrongProbabilityPct": 75
+    },
+    {
+      "season": "SON",
+      "period": "September-November 2026",
+      "elNinoProbabilityPct": 100,
+      "veryStrongProbabilityPct": 93
+    },
+    {
+      "season": "OND",
+      "period": "October-December 2026",
+      "elNinoProbabilityPct": 100,
+      "veryStrongProbabilityPct": 95
+    },
+    {
+      "season": "NDJ",
+      "period": "November 2026-January 2027",
+      "elNinoProbabilityPct": 100,
+      "veryStrongProbabilityPct": 90
+    },
+    {
+      "season": "DJF",
+      "period": "December 2026-February 2027",
+      "elNinoProbabilityPct": 100,
+      "veryStrongProbabilityPct": 70
+    },
+    {
+      "season": "JFM",
+      "period": "January-March 2027",
+      "elNinoProbabilityPct": 100,
+      "veryStrongProbabilityPct": 35
+    },
+    {
+      "season": "FMA",
+      "period": "February-April 2027",
+      "elNinoProbabilityPct": 97,
+      "veryStrongProbabilityPct": 6
+    },
+    {
+      "season": "MAM",
+      "period": "March-May 2027",
+      "elNinoProbabilityPct": 82,
+      "veryStrongProbabilityPct": 0
+    }
+  ],
+  "sourceId": "noaa-cpc-enso-strength-2026-08",
+  "isLive": false,
+  "useInScenarioCalculation": false,
+  "contextNote": "Climate information provides context and does not determine the scenario result.",
+  "impactNote": "A stronger El Niño can raise the chance of familiar climate impacts. It does not mean every harvest will fail."
+}

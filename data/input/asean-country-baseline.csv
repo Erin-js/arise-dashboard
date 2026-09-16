@@ -1,0 +1,11 @@
+iso3,country_name,data_year,production_tonnes,domestic_use_tonnes,beginning_stock_tonnes,profile_id,simulator_enabled
+BRN,Brunei Darussalam,2026,2746,29281,7776,C1,True
+KHM,Cambodia,2026,8960000,8096800,3943846,C2,False
+IDN,Indonesia,2026,39260339,31103146,12529347,C2,False
+LAO,Lao PDR,2026,2382600,2325052,46223,C2,False
+MYS,Malaysia,2026,1357154,2889000,0,C2,True
+MMR,Myanmar,2026,19023298,15405214,20618921,C3,False
+PHL,Philippines,2026,12791563,17471531,2890850,C2,True
+SGP,Singapore,2026,0,264730,0,C1,True
+THA,Thailand,2026,23032393,11079810,11517930,C3,False
+VNM,Viet Nam,2026,29319578,21518349,2644794,C2,False

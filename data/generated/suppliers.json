@@ -1,0 +1,448 @@
+[
+  {
+    "countryIso3": "BRN",
+    "countryName": "Brunei Darussalam",
+    "tradeDataYear": 2024,
+    "totalImportTonnes": 31285.681,
+    "hhi": 4769.0670160606,
+    "effectiveSuppliers": 2.096846189479702,
+    "observedSupplierCount": 12,
+    "topSupplier": "Thailand",
+    "topSupplierIso3": "THA",
+    "topSupplierSharePct": 62.31850922471529,
+    "suppliers": [
+      {
+        "supplierIso3": "THA",
+        "supplierName": "Thailand",
+        "importTonnes": 19496.77,
+        "sharePct": 62.31850922471529
+      },
+      {
+        "supplierIso3": "KHM",
+        "supplierName": "Cambodia",
+        "importTonnes": 9009.0,
+        "sharePct": 28.79592104771509
+      },
+      {
+        "supplierIso3": "IND",
+        "supplierName": "India",
+        "importTonnes": 2337.221,
+        "sharePct": 7.470577354541204
+      },
+      {
+        "supplierIso3": "VNM",
+        "supplierName": "Viet Nam",
+        "importTonnes": 149.13,
+        "sharePct": 0.47667174002061835
+      },
+      {
+        "supplierIso3": "AUS",
+        "supplierName": "Australia",
+        "importTonnes": 119.12,
+        "sharePct": 0.3807492635368877
+      },
+      {
+        "supplierIso3": "S19",
+        "supplierName": "Other Asia, nes",
+        "importTonnes": 64.47,
+        "sharePct": 0.2060687123927397
+      },
+      {
+        "supplierIso3": "IDN",
+        "supplierName": "Indonesia",
+        "importTonnes": 46.0,
+        "sharePct": 0.14703211990175313
+      },
+      {
+        "supplierIso3": "JPN",
+        "supplierName": "Japan",
+        "importTonnes": 41.23,
+        "sharePct": 0.13178552833802787
+      },
+      {
+        "supplierIso3": "CHN",
+        "supplierName": "China",
+        "importTonnes": 13.4,
+        "sharePct": 0.04283109579746722
+      },
+      {
+        "supplierIso3": "PAK",
+        "supplierName": "Pakistan",
+        "importTonnes": 4.9,
+        "sharePct": 0.015662117119969357
+      },
+      {
+        "supplierIso3": "BGD",
+        "supplierName": "Bangladesh",
+        "importTonnes": 3.0,
+        "sharePct": 0.009589051297940422
+      },
+      {
+        "supplierIso3": "SGP",
+        "supplierName": "Singapore",
+        "importTonnes": 1.44,
+        "sharePct": 0.004602744623011403
+      }
+    ]
+  },
+  {
+    "countryIso3": "MYS",
+    "countryName": "Malaysia",
+    "tradeDataYear": 2024,
+    "totalImportTonnes": 1695309.6828599998,
+    "hhi": 2703.6999698783948,
+    "effectiveSuppliers": 3.69863524481593,
+    "observedSupplierCount": 13,
+    "topSupplier": "Viet Nam",
+    "topSupplierIso3": "VNM",
+    "topSupplierSharePct": 40.561162656721855,
+    "suppliers": [
+      {
+        "supplierIso3": "VNM",
+        "supplierName": "Viet Nam",
+        "importTonnes": 687637.318,
+        "sharePct": 40.561162656721855
+      },
+      {
+        "supplierIso3": "PAK",
+        "supplierName": "Pakistan",
+        "importTonnes": 382051.2,
+        "sharePct": 22.53577643439615
+      },
+      {
+        "supplierIso3": "IND",
+        "supplierName": "India",
+        "importTonnes": 325761.99,
+        "sharePct": 19.21548571883558
+      },
+      {
+        "supplierIso3": "THA",
+        "supplierName": "Thailand",
+        "importTonnes": 217821.48,
+        "sharePct": 12.848477313745626
+      },
+      {
+        "supplierIso3": "KHM",
+        "supplierName": "Cambodia",
+        "importTonnes": 66952.37,
+        "sharePct": 3.949270783792779
+      },
+      {
+        "supplierIso3": "MMR",
+        "supplierName": "Myanmar",
+        "importTonnes": 14337.52,
+        "sharePct": 0.8457168707850767
+      },
+      {
+        "supplierIso3": "JPN",
+        "supplierName": "Japan",
+        "importTonnes": 281.57686,
+        "sharePct": 0.01660916957219154
+      },
+      {
+        "supplierIso3": "KOR",
+        "supplierName": "Rep. of Korea",
+        "importTonnes": 249.6,
+        "sharePct": 0.014722973774261879
+      },
+      {
+        "supplierIso3": "S19",
+        "supplierName": "Other Asia, nes",
+        "importTonnes": 169.8,
+        "sharePct": 0.010015869178163729
+      },
+      {
+        "supplierIso3": "IDN",
+        "supplierName": "Indonesia",
+        "importTonnes": 31.868,
+        "sharePct": 0.0018797745522362882
+      },
+      {
+        "supplierIso3": "ESP",
+        "supplierName": "Spain",
+        "importTonnes": 7.92,
+        "sharePct": 0.0004671712832217712
+      },
+      {
+        "supplierIso3": "CHN",
+        "supplierName": "China",
+        "importTonnes": 7.0,
+        "sharePct": 0.0004129039119384341
+      },
+      {
+        "supplierIso3": "DEU",
+        "supplierName": "Germany",
+        "importTonnes": 0.04,
+        "sharePct": 2.3594509253624803e-06
+      }
+    ]
+  },
+  {
+    "countryIso3": "PHL",
+    "countryName": "Philippines",
+    "tradeDataYear": 2024,
+    "totalImportTonnes": 4770088.6506,
+    "hhi": 5781.702314961494,
+    "effectiveSuppliers": 1.7295944092663995,
+    "observedSupplierCount": 14,
+    "topSupplier": "Viet Nam",
+    "topSupplierIso3": "VNM",
+    "topSupplierSharePct": 74.42293562454991,
+    "suppliers": [
+      {
+        "supplierIso3": "VNM",
+        "supplierName": "Viet Nam",
+        "importTonnes": 3550040.00567,
+        "sharePct": 74.42293562454991
+      },
+      {
+        "supplierIso3": "THA",
+        "supplierName": "Thailand",
+        "importTonnes": 641837.07007,
+        "sharePct": 13.455453705022174
+      },
+      {
+        "supplierIso3": "PAK",
+        "supplierName": "Pakistan",
+        "importTonnes": 309406.02619999996,
+        "sharePct": 6.48637895149143
+      },
+      {
+        "supplierIso3": "MMR",
+        "supplierName": "Myanmar",
+        "importTonnes": 208675.88768,
+        "sharePct": 4.374675251659148
+      },
+      {
+        "supplierIso3": "IND",
+        "supplierName": "India",
+        "importTonnes": 32682.17863,
+        "sharePct": 0.6851482440664726
+      },
+      {
+        "supplierIso3": "CHN",
+        "supplierName": "China",
+        "importTonnes": 20906.4162,
+        "sharePct": 0.438281502323239
+      },
+      {
+        "supplierIso3": "KHM",
+        "supplierName": "Cambodia",
+        "importTonnes": 3469.06,
+        "sharePct": 0.0727252731364573
+      },
+      {
+        "supplierIso3": "KOR",
+        "supplierName": "Rep. of Korea",
+        "importTonnes": 2022.4,
+        "sharePct": 0.04239753489163382
+      },
+      {
+        "supplierIso3": "JPN",
+        "supplierName": "Japan",
+        "importTonnes": 515.492,
+        "sharePct": 0.010806759323753017
+      },
+      {
+        "supplierIso3": "BGD",
+        "supplierName": "Bangladesh",
+        "importTonnes": 513.5375,
+        "sharePct": 0.01076578524249031
+      },
+      {
+        "supplierIso3": "ITA",
+        "supplierName": "Italy",
+        "importTonnes": 16.24561,
+        "sharePct": 0.0003405724964452508
+      },
+      {
+        "supplierIso3": "ESP",
+        "supplierName": "Spain",
+        "importTonnes": 3.48855,
+        "sharePct": 7.313386093068096e-05
+      },
+      {
+        "supplierIso3": "AUS",
+        "supplierName": "Australia",
+        "importTonnes": 0.83649,
+        "sharePct": 1.753615207748357e-05
+      },
+      {
+        "supplierIso3": "IDN",
+        "supplierName": "Indonesia",
+        "importTonnes": 0.006,
+        "sharePct": 1.2578382582565414e-07
+      }
+    ]
+  },
+  {
+    "countryIso3": "SGP",
+    "countryName": "Singapore",
+    "tradeDataYear": 2024,
+    "totalImportTonnes": 448503.08,
+    "hhi": 2912.2284506254996,
+    "effectiveSuppliers": 3.4337965477441035,
+    "observedSupplierCount": 26,
+    "topSupplier": "India",
+    "topSupplierIso3": "IND",
+    "topSupplierSharePct": 35.26216809926924,
+    "suppliers": [
+      {
+        "supplierIso3": "IND",
+        "supplierName": "India",
+        "importTonnes": 158151.91,
+        "sharePct": 35.26216809926924
+      },
+      {
+        "supplierIso3": "VNM",
+        "supplierName": "Viet Nam",
+        "importTonnes": 143615.93,
+        "sharePct": 32.02116917457958
+      },
+      {
+        "supplierIso3": "THA",
+        "supplierName": "Thailand",
+        "importTonnes": 112744.35,
+        "sharePct": 25.137921014945984
+      },
+      {
+        "supplierIso3": "KHM",
+        "supplierName": "Cambodia",
+        "importTonnes": 11007.0,
+        "sharePct": 2.4541637484407017
+      },
+      {
+        "supplierIso3": "PAK",
+        "supplierName": "Pakistan",
+        "importTonnes": 6928.7,
+        "sharePct": 1.5448500375961742
+      },
+      {
+        "supplierIso3": "JPN",
+        "supplierName": "Japan",
+        "importTonnes": 6577.05,
+        "sharePct": 1.4664447789299464
+      },
+      {
+        "supplierIso3": "MMR",
+        "supplierName": "Myanmar",
+        "importTonnes": 3248.0,
+        "sharePct": 0.7241867770450986
+      },
+      {
+        "supplierIso3": "S19",
+        "supplierName": "Other Asia, nes",
+        "importTonnes": 2353.5,
+        "sharePct": 0.524745560275751
+      },
+      {
+        "supplierIso3": "USA",
+        "supplierName": "USA",
+        "importTonnes": 1350.11,
+        "sharePct": 0.3010258034348393
+      },
+      {
+        "supplierIso3": "AUS",
+        "supplierName": "Australia",
+        "importTonnes": 1071.86,
+        "sharePct": 0.23898609570306628
+      },
+      {
+        "supplierIso3": "CHN",
+        "supplierName": "China",
+        "importTonnes": 709.82,
+        "sharePct": 0.15826424202036696
+      },
+      {
+        "supplierIso3": "CAN",
+        "supplierName": "Canada",
+        "importTonnes": 187.46,
+        "sharePct": 0.0417968144165253
+      },
+      {
+        "supplierIso3": "BGD",
+        "supplierName": "Bangladesh",
+        "importTonnes": 169.76,
+        "sharePct": 0.03785035322388422
+      },
+      {
+        "supplierIso3": "ARE",
+        "supplierName": "United Arab Emirates",
+        "importTonnes": 158.95,
+        "sharePct": 0.0354401133655537
+      },
+      {
+        "supplierIso3": "ITA",
+        "supplierName": "Italy",
+        "importTonnes": 92.68,
+        "sharePct": 0.02066429510361445
+      },
+      {
+        "supplierIso3": "MYS",
+        "supplierName": "Malaysia",
+        "importTonnes": 45.89,
+        "sharePct": 0.010231813792672283
+      },
+      {
+        "supplierIso3": "LKA",
+        "supplierName": "Sri Lanka",
+        "importTonnes": 30.23,
+        "sharePct": 0.006740198974776271
+      },
+      {
+        "supplierIso3": "ESP",
+        "supplierName": "Spain",
+        "importTonnes": 27.6,
+        "sharePct": 0.006153803893609828
+      },
+      {
+        "supplierIso3": "KOR",
+        "supplierName": "Rep. of Korea",
+        "importTonnes": 23.05,
+        "sharePct": 0.005139318106800962
+      },
+      {
+        "supplierIso3": "GRC",
+        "supplierName": "Greece",
+        "importTonnes": 5.53,
+        "sharePct": 0.0012329904178138532
+      },
+      {
+        "supplierIso3": "DEU",
+        "supplierName": "Germany",
+        "importTonnes": 2.0,
+        "sharePct": 0.0004459278183775238
+      },
+      {
+        "supplierIso3": "HKG",
+        "supplierName": "China, Hong Kong SAR",
+        "importTonnes": 1.01,
+        "sharePct": 0.0002251935482806495
+      },
+      {
+        "supplierIso3": "IDN",
+        "supplierName": "Indonesia",
+        "importTonnes": 0.44,
+        "sharePct": 9.810412004305523e-05
+      },
+      {
+        "supplierIso3": "GBR",
+        "supplierName": "United Kingdom",
+        "importTonnes": 0.21,
+        "sharePct": 4.6822420929639994e-05
+      },
+      {
+        "supplierIso3": "FRA",
+        "supplierName": "France",
+        "importTonnes": 0.03,
+        "sharePct": 6.688917275662856e-06
+      },
+      {
+        "supplierIso3": "BEL",
+        "supplierName": "Belgium",
+        "importTonnes": 0.01,
+        "sharePct": 2.2296390918876188e-06
+      }
+    ]
+  }
+]

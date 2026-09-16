@@ -1,0 +1,93 @@
+{
+  "lastReviewedDate": "2026-09-16",
+  "sources": [
+    {
+      "id": "afsis-aco-35",
+      "title": "ASEAN Agricultural Commodities Outlook Report No. 35",
+      "publisher": "ASEAN Food Security Information System",
+      "dataPeriod": "2026 projection",
+      "url": "https://aptfsis.org/uploads/normal/ACO%20Report%2035/ACO_no.35.pdf",
+      "landingPageUrl": "https://aptfsis.org/publication",
+      "localInput": "data/input/asean-country-baseline.csv",
+      "usedFor": [
+        "Rice production",
+        "Domestic rice use",
+        "Beginning stocks",
+        "Domestic buffer profiles"
+      ],
+      "processingNote": "Country ratios are calculated from the baseline values. Profile assignments come from the project's Ward hierarchical clustering analysis."
+    },
+    {
+      "id": "un-comtrade-rice-2024",
+      "title": "Annual rice imports by reporting country and partner",
+      "publisher": "United Nations Statistics Division, UN Comtrade",
+      "dataPeriod": "2024",
+      "url": "https://comtradeplus.un.org/TradeFlow",
+      "localInput": "data/raw/TradeData_8_27_2026_21_50_21.csv",
+      "filters": {
+        "frequency": "Annual",
+        "classification": "Harmonized System",
+        "commodityCode": "1006",
+        "commodity": "Rice",
+        "tradeFlow": "Import",
+        "measure": "Net weight",
+        "reporterIso3": [
+          "BRN",
+          "MYS",
+          "PHL",
+          "SGP"
+        ]
+      },
+      "usedFor": [
+        "Total rice imports",
+        "Supplier shares",
+        "Largest supplier",
+        "HHI",
+        "Effective suppliers"
+      ]
+    },
+    {
+      "id": "fao-owid-rice-yields",
+      "title": "Rice yields - UN FAO",
+      "publisher": "Food and Agriculture Organization of the United Nations, with major processing by Our World in Data",
+      "dataPeriod": "1961-2024",
+      "lastUpdatedDate": "2026-02-25",
+      "url": "https://ourworldindata.org/grapher/rice-yields",
+      "downloadUrl": "https://ourworldindata.org/grapher/rice-yields.csv?v=1&csvType=full&useColumnShortNames=false",
+      "localInput": "data/raw/rice-yields.csv",
+      "unit": "tonnes per hectare",
+      "usedFor": [
+        "Country-specific yield trends",
+        "Rice-yield anomalies during historical El Niño episodes"
+      ],
+      "processingNote": "The ARISE analysis fits a country-specific quadratic trend from 1990 onward and reports mean percentage deviations during selected El Niño episodes."
+    },
+    {
+      "id": "noaa-cpc-roni",
+      "title": "Relative Oceanic Niño Index",
+      "publisher": "NOAA Climate Prediction Center",
+      "dataPeriod": "1950-present",
+      "url": "https://cpc.ncep.noaa.gov/products/analysis_monitoring/enso/roni/",
+      "localInput": "data/raw/RONI_3_Months.csv",
+      "unit": "degrees Celsius",
+      "usedFor": [
+        "Identification and validation of historical El Niño episodes"
+      ],
+      "methodNote": "RONI is a three-month running mean of the relative Niño 3.4 index. Historical warm episodes use a +0.5°C threshold sustained for at least five consecutive overlapping seasons."
+    },
+    {
+      "id": "noaa-cpc-enso-strength-2026-08",
+      "title": "Official NOAA CPC ENSO Strength Probabilities",
+      "publisher": "NOAA Climate Prediction Center",
+      "dataPeriod": "Outlook issued August 2026",
+      "url": "https://cpc.ncep.noaa.gov/products/analysis_monitoring/enso/roni/archives/?month=08&type=strengths&year=2026",
+      "localOutput": "data/climate-snapshot.json",
+      "usedFor": [
+        "Climate context banner",
+        "Seasonal El Niño probabilities",
+        "Very strong El Niño probabilities"
+      ],
+      "limitation": "This is a fixed snapshot for the prototype. Climate information provides context and is not an input to the supplier-disruption calculation."
+    }
+  ]
+}

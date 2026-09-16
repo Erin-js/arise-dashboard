@@ -1,0 +1,510 @@
+{
+  "method": {
+    "trend": "Country-specific quadratic trend fitted to annual yields from 1990 onward",
+    "anomaly": "Mean annual percentage deviation from the fitted trend during each episode",
+    "yieldUnit": "tonnes per hectare",
+    "roniUnit": "degrees Celsius"
+  },
+  "episodes": [
+    {
+      "id": "1991-92",
+      "startYear": 1991,
+      "endYear": 1992,
+      "peakRoni": 2.1
+    },
+    {
+      "id": "1993",
+      "startYear": 1993,
+      "endYear": 1993,
+      "peakRoni": 1.1
+    },
+    {
+      "id": "1994-95",
+      "startYear": 1994,
+      "endYear": 1995,
+      "peakRoni": 1.3
+    },
+    {
+      "id": "1997-98",
+      "startYear": 1997,
+      "endYear": 1998,
+      "peakRoni": 2.3
+    },
+    {
+      "id": "2002-03",
+      "startYear": 2002,
+      "endYear": 2003,
+      "peakRoni": 1.3
+    },
+    {
+      "id": "2004-05",
+      "startYear": 2004,
+      "endYear": 2005,
+      "peakRoni": 0.7
+    },
+    {
+      "id": "2006-07",
+      "startYear": 2006,
+      "endYear": 2007,
+      "peakRoni": 0.9
+    },
+    {
+      "id": "2009-10",
+      "startYear": 2009,
+      "endYear": 2010,
+      "peakRoni": 1.5
+    },
+    {
+      "id": "2014-16",
+      "startYear": 2014,
+      "endYear": 2016,
+      "peakRoni": 2.3
+    },
+    {
+      "id": "2018-19",
+      "startYear": 2018,
+      "endYear": 2019,
+      "peakRoni": 0.8
+    },
+    {
+      "id": "2023-24",
+      "startYear": 2023,
+      "endYear": 2024,
+      "peakRoni": 1.4
+    }
+  ],
+  "countries": [
+    {
+      "iso3": "KHM",
+      "countryName": "Cambodia",
+      "sourceFirstYear": 1961,
+      "sourceLastYear": 2024,
+      "analysisFirstYear": 1990,
+      "analysisLastYear": 2024,
+      "episodes": [
+        {
+          "episodeId": "1991-92",
+          "anomalyPct": 2.4205588951988273
+        },
+        {
+          "episodeId": "1993",
+          "anomalyPct": -10.377969352808066
+        },
+        {
+          "episodeId": "1994-95",
+          "anomalyPct": 3.179411810131983
+        },
+        {
+          "episodeId": "1997-98",
+          "anomalyPct": -3.0938054282941634
+        },
+        {
+          "episodeId": "2002-03",
+          "anomalyPct": -10.20509824524284
+        },
+        {
+          "episodeId": "2004-05",
+          "anomalyPct": -6.872499745422587
+        },
+        {
+          "episodeId": "2006-07",
+          "anomalyPct": 0.6531043582698048
+        },
+        {
+          "episodeId": "2009-10",
+          "anomalyPct": 5.337251733079152
+        },
+        {
+          "episodeId": "2014-16",
+          "anomalyPct": -0.23033617728965153
+        },
+        {
+          "episodeId": "2018-19",
+          "anomalyPct": -0.36081472191873687
+        },
+        {
+          "episodeId": "2023-24",
+          "anomalyPct": -0.9699842885973713
+        }
+      ]
+    },
+    {
+      "iso3": "IDN",
+      "countryName": "Indonesia",
+      "sourceFirstYear": 1961,
+      "sourceLastYear": 2024,
+      "analysisFirstYear": 1990,
+      "analysisLastYear": 2024,
+      "episodes": [
+        {
+          "episodeId": "1991-92",
+          "anomalyPct": 2.5741819833677115
+        },
+        {
+          "episodeId": "1993",
+          "anomalyPct": 2.099715516191641
+        },
+        {
+          "episodeId": "1994-95",
+          "anomalyPct": 0.3010770995042107
+        },
+        {
+          "episodeId": "1997-98",
+          "anomalyPct": -2.66168774882179
+        },
+        {
+          "episodeId": "2002-03",
+          "anomalyPct": -2.110278038241475
+        },
+        {
+          "episodeId": "2004-05",
+          "anomalyPct": -2.5041183004412657
+        },
+        {
+          "episodeId": "2006-07",
+          "anomalyPct": -2.294858914198455
+        },
+        {
+          "episodeId": "2009-10",
+          "anomalyPct": 3.484280180471277
+        },
+        {
+          "episodeId": "2014-16",
+          "anomalyPct": 3.0128106432911586
+        },
+        {
+          "episodeId": "2018-19",
+          "anomalyPct": -0.4158516040701674
+        },
+        {
+          "episodeId": "2023-24",
+          "anomalyPct": -1.5591286589057747
+        }
+      ]
+    },
+    {
+      "iso3": "LAO",
+      "countryName": "Laos",
+      "sourceFirstYear": 1961,
+      "sourceLastYear": 2024,
+      "analysisFirstYear": 1990,
+      "analysisLastYear": 2024,
+      "episodes": [
+        {
+          "episodeId": "1991-92",
+          "anomalyPct": 7.513345953634965
+        },
+        {
+          "episodeId": "1993",
+          "anomalyPct": -6.334175239692569
+        },
+        {
+          "episodeId": "1994-95",
+          "anomalyPct": -0.7827396144725665
+        },
+        {
+          "episodeId": "1997-98",
+          "anomalyPct": -4.713375329767329
+        },
+        {
+          "episodeId": "2002-03",
+          "anomalyPct": -2.596093754637501
+        },
+        {
+          "episodeId": "2004-05",
+          "anomalyPct": -1.531904385759645
+        },
+        {
+          "episodeId": "2006-07",
+          "anomalyPct": 2.4006796276413764
+        },
+        {
+          "episodeId": "2009-10",
+          "anomalyPct": -0.5509200088963522
+        },
+        {
+          "episodeId": "2014-16",
+          "anomalyPct": 6.628480880820958
+        },
+        {
+          "episodeId": "2018-19",
+          "anomalyPct": 3.2196237708059776
+        },
+        {
+          "episodeId": "2023-24",
+          "anomalyPct": -1.124354836084936
+        }
+      ]
+    },
+    {
+      "iso3": "MYS",
+      "countryName": "Malaysia",
+      "sourceFirstYear": 1961,
+      "sourceLastYear": 2024,
+      "analysisFirstYear": 1990,
+      "analysisLastYear": 2024,
+      "episodes": [
+        {
+          "episodeId": "1991-92",
+          "anomalyPct": 4.098561205001445
+        },
+        {
+          "episodeId": "1993",
+          "anomalyPct": 4.8549392629267425
+        },
+        {
+          "episodeId": "1994-95",
+          "anomalyPct": 3.9887249667899978
+        },
+        {
+          "episodeId": "1997-98",
+          "anomalyPct": -6.127218216236495
+        },
+        {
+          "episodeId": "2002-03",
+          "anomalyPct": -3.3999478339934086
+        },
+        {
+          "episodeId": "2004-05",
+          "anomalyPct": -3.4399678222063343
+        },
+        {
+          "episodeId": "2006-07",
+          "anomalyPct": -2.91057336133628
+        },
+        {
+          "episodeId": "2009-10",
+          "anomalyPct": 0.9010390593998409
+        },
+        {
+          "episodeId": "2014-16",
+          "anomalyPct": 12.717775112845544
+        },
+        {
+          "episodeId": "2018-19",
+          "anomalyPct": -3.0840690591735322
+        },
+        {
+          "episodeId": "2023-24",
+          "anomalyPct": -4.696881440002683
+        }
+      ]
+    },
+    {
+      "iso3": "MMR",
+      "countryName": "Myanmar",
+      "sourceFirstYear": 1961,
+      "sourceLastYear": 2024,
+      "analysisFirstYear": 1990,
+      "analysisLastYear": 2024,
+      "episodes": [
+        {
+          "episodeId": "1991-92",
+          "anomalyPct": 1.643950724029926
+        },
+        {
+          "episodeId": "1993",
+          "anomalyPct": 2.4602638425460626
+        },
+        {
+          "episodeId": "1994-95",
+          "anomalyPct": -0.5641547738080779
+        },
+        {
+          "episodeId": "1997-98",
+          "anomalyPct": -5.717576455666164
+        },
+        {
+          "episodeId": "2002-03",
+          "anomalyPct": -2.417807257947896
+        },
+        {
+          "episodeId": "2004-05",
+          "anomalyPct": 0.9661858390147089
+        },
+        {
+          "episodeId": "2006-07",
+          "anomalyPct": 3.8388002036018083
+        },
+        {
+          "episodeId": "2009-10",
+          "anomalyPct": 6.081884429743176
+        },
+        {
+          "episodeId": "2014-16",
+          "anomalyPct": -0.577323020278607
+        },
+        {
+          "episodeId": "2018-19",
+          "anomalyPct": -1.5466505322597894
+        },
+        {
+          "episodeId": "2023-24",
+          "anomalyPct": 1.2792457996931001
+        }
+      ]
+    },
+    {
+      "iso3": "PHL",
+      "countryName": "Philippines",
+      "sourceFirstYear": 1961,
+      "sourceLastYear": 2024,
+      "analysisFirstYear": 1990,
+      "analysisLastYear": 2024,
+      "episodes": [
+        {
+          "episodeId": "1991-92",
+          "anomalyPct": 3.392765556870412
+        },
+        {
+          "episodeId": "1993",
+          "anomalyPct": 1.4718427487728902
+        },
+        {
+          "episodeId": "1994-95",
+          "anomalyPct": -2.433326283743219
+        },
+        {
+          "episodeId": "1997-98",
+          "anomalyPct": -8.544269042732342
+        },
+        {
+          "episodeId": "2002-03",
+          "anomalyPct": -0.379846914101586
+        },
+        {
+          "episodeId": "2004-05",
+          "anomalyPct": 3.3658407757859994
+        },
+        {
+          "episodeId": "2006-07",
+          "anomalyPct": 6.047327332407075
+        },
+        {
+          "episodeId": "2009-10",
+          "anomalyPct": -1.6105544904902427
+        },
+        {
+          "episodeId": "2014-16",
+          "anomalyPct": 0.7218842474584611
+        },
+        {
+          "episodeId": "2018-19",
+          "anomalyPct": -0.5547578845408991
+        },
+        {
+          "episodeId": "2023-24",
+          "anomalyPct": -1.662274719447728
+        }
+      ]
+    },
+    {
+      "iso3": "THA",
+      "countryName": "Thailand",
+      "sourceFirstYear": 1961,
+      "sourceLastYear": 2024,
+      "analysisFirstYear": 1990,
+      "analysisLastYear": 2024,
+      "episodes": [
+        {
+          "episodeId": "1991-92",
+          "anomalyPct": 5.051100552561612
+        },
+        {
+          "episodeId": "1993",
+          "anomalyPct": -0.5019135821123485
+        },
+        {
+          "episodeId": "1994-95",
+          "anomalyPct": -0.6829726178378659
+        },
+        {
+          "episodeId": "1997-98",
+          "anomalyPct": -4.796644192390187
+        },
+        {
+          "episodeId": "2002-03",
+          "anomalyPct": 4.556718903604805
+        },
+        {
+          "episodeId": "2004-05",
+          "anomalyPct": 2.2264304940146022
+        },
+        {
+          "episodeId": "2006-07",
+          "anomalyPct": 0.9673160109076138
+        },
+        {
+          "episodeId": "2009-10",
+          "anomalyPct": -2.2110053604114
+        },
+        {
+          "episodeId": "2014-16",
+          "anomalyPct": -3.234570440403416
+        },
+        {
+          "episodeId": "2018-19",
+          "anomalyPct": 0.13098739003706
+        },
+        {
+          "episodeId": "2023-24",
+          "anomalyPct": 2.4408035419342435
+        }
+      ]
+    },
+    {
+      "iso3": "VNM",
+      "countryName": "Vietnam",
+      "sourceFirstYear": 1961,
+      "sourceLastYear": 2024,
+      "analysisFirstYear": 1990,
+      "analysisLastYear": 2024,
+      "episodes": [
+        {
+          "episodeId": "1991-92",
+          "anomalyPct": -0.053568057165555016
+        },
+        {
+          "episodeId": "1993",
+          "anomalyPct": 1.341904706004648
+        },
+        {
+          "episodeId": "1994-95",
+          "anomalyPct": -0.27900069254747617
+        },
+        {
+          "episodeId": "1997-98",
+          "anomalyPct": -2.065094600469708
+        },
+        {
+          "episodeId": "2002-03",
+          "anomalyPct": 0.4154712024881451
+        },
+        {
+          "episodeId": "2004-05",
+          "anomalyPct": 1.462072287511195
+        },
+        {
+          "episodeId": "2006-07",
+          "anomalyPct": -1.1047843262072585
+        },
+        {
+          "episodeId": "2009-10",
+          "anomalyPct": 0.5319008734800955
+        },
+        {
+          "episodeId": "2014-16",
+          "anomalyPct": 0.463197526236099
+        },
+        {
+          "episodeId": "2018-19",
+          "anomalyPct": -0.9003304867360384
+        },
+        {
+          "episodeId": "2023-24",
+          "anomalyPct": 0.37607427986330716
+        }
+      ]
+    }
+  ]
+}

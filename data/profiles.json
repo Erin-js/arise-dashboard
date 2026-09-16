@@ -1,0 +1,60 @@
+[
+  {
+    "code": "C1",
+    "id": "large-gap-thin-stocks",
+    "name": "Large Gap, Thin Stocks",
+    "color": "coral",
+    "memberIso3": [
+      "BRN",
+      "SGP"
+    ],
+    "priority": "Secure access before a crisis",
+    "actions": [
+      "Diversify major suppliers",
+      "Prepare contingency import contracts",
+      "Protect a minimum reserve floor",
+      "Prepare regional reserve requests early"
+    ],
+    "alertSignal": "High production gap, thin stocks, and narrow import options"
+  },
+  {
+    "code": "C2",
+    "id": "near-balance-limited-stocks",
+    "name": "Near Balance, Limited Stocks",
+    "color": "amber",
+    "memberIso3": [
+      "KHM",
+      "IDN",
+      "LAO",
+      "MYS",
+      "PHL",
+      "VNM"
+    ],
+    "priority": "Protect the next harvest",
+    "actions": [
+      "Adjust planting calendars when drought signals rise",
+      "Expand drought-tolerant rice varieties",
+      "Monitor key production areas",
+      "Set clear reserve-release triggers"
+    ],
+    "alertSignal": "Rising crop stress and limited stocks"
+  },
+  {
+    "code": "C3",
+    "id": "surplus-deep-stocks",
+    "name": "Surplus, Deep Stocks",
+    "color": "green",
+    "memberIso3": [
+      "MMR",
+      "THA"
+    ],
+    "priority": "Protect ASEAN's supply anchors",
+    "actions": [
+      "Prioritize water access in key production areas",
+      "Monitor production and export availability",
+      "Protect major transport routes",
+      "Pre-plan regional reserve commitments"
+    ],
+    "alertSignal": "Climate stress in major surplus-producing areas"
+  }
+]
